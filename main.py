@@ -1,12 +1,11 @@
 #Calculadora
 
 #Elvis
-def suma():
-    pass
+def suma(a, b):
+    return a+b
 
-
-def resta():
-    pass
+def resta(a, b):
+    return a-b
 
 #--------------------------------------------------
 
